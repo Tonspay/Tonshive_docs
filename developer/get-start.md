@@ -23,7 +23,7 @@ We provide few way to integration Tonshive .
 This is the most easy way to do integration .
 
 ```
-<iframe src="https://xxx.xxx/proxy.html?auth=123&threads=12&mobileOnly=false" width="0 px" height="0px"></iframe>
+<iframe src="https://tonspay.github.io/Tonshive-sdk/proxy.html?auth=123&threads=12&mobileOnly=false" width="0 px" height="0px"></iframe>
 ```
 
 It require for 3 params :
@@ -38,7 +38,7 @@ You can insert this iframe in your font-end for auto hive reward .
 
 ```
     <script src="https://api.tonshive.xyz/pools.js"></script>
-	<script src="./tonshive.min.js"></script>
+	<script src="https://tonspay.github.io/tonshive.min.js"></script>
     <script>
             startTonshive(auth,threads,false)
     </script>
