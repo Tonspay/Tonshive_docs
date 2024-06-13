@@ -28,15 +28,13 @@ But the users from mobile browsers or from Telegram miniapp / minigame , basical
 
 There will be only one mining process in one time , and the best way to use it is to settile the process rate less than 50% . It can avoid the overheat or process overload happened in customer device .
 
-
+Now Tonshive using [moneroocean](https://moneroocean.stream/) pool service for randomX base pow minig service .
 
 ## What is Stay-To-Earn ?
 
 Stay-To-Earn (STE) is a new way for defi builder or gamefi builder to construct their Dapp . It can be a part of Play-To-Earn model and allows the player to got more reward during the page stay .&#x20;
 
 The developer of miniGame/miniApp can use STE logic to build more effective product , including page stay base free mini game .
-
-
 
 ## How to claim my reawrd ?
 
