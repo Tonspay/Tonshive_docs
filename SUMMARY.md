@@ -6,6 +6,7 @@
 ## Developer
 
 * [Get start](developer/get-start.md)
+* [Demo](developer/demo.md)
 
 ## Link
 
